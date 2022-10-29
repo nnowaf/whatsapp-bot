@@ -11,6 +11,7 @@ require (
 	filippo.io/edwards25519 v1.0.0 // indirect
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
+	github.com/golang/protobuf v1.5.0 // indirect
 	github.com/gorilla/websocket v1.5.0 // indirect
 	go.mau.fi/libsignal v0.0.0-20221015105917-d970e7c3c9cf // indirect
 	golang.org/x/crypto v0.0.0-20221012134737-56aed061732a // indirect
@@ -19,6 +20,8 @@ require (
 )
 
 require (
+	github.com/mdp/qrterminal/v3 v3.0.0
 	go.mau.fi/whatsmeow v0.0.0-20221025074022-0f246f12636b
+	google.golang.org/appengine v1.6.7
 	rsc.io/qr v0.2.0 // indirect
 )
